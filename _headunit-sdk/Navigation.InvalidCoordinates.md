@@ -2,7 +2,7 @@
 title: Navigation.InvalidCoordinates
 layout: headunit-sdk
 supported:
-  - 3
+  - 2
   - 4
 type: event
 ---

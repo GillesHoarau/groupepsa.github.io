@@ -2,7 +2,6 @@
 title: Navigation.WebDestinationReached
 layout: headunit-sdk
 supported:
-  - 3
   - 4
 type: event
 ---
