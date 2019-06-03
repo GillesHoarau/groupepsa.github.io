@@ -20,3 +20,5 @@ try{
 ```
 
 >**Note :** The Navigation events are triggered only if the Navigation was launched using either `LaunchGuidance` or `LaunchGuidanceWaypoints`.
+
+*Appeared in Wave 4.1 - version 42.01.20.10*
